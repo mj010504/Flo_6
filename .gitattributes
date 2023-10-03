@@ -1,0 +1,8 @@
+gradle.properties filter=lfs diff=lfs merge=lfs -text
+gradlew filter=lfs diff=lfs merge=lfs -text
+gradlew.bat filter=lfs diff=lfs merge=lfs -text
+local.properties filter=lfs diff=lfs merge=lfs -text
+settings.gradle.kts filter=lfs diff=lfs merge=lfs -text
+app filter=lfs diff=lfs merge=lfs -text
+build.gradle.kts filter=lfs diff=lfs merge=lfs -text
+gradle filter=lfs diff=lfs merge=lfs -text
